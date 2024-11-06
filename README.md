@@ -1,2 +1,2 @@
-# Demo-E-Commerce-Website-
-Demo how to build website E-Commerce Website basic 
+# E-Commerce-Website
+How to build website E-Commerce Website basic 
