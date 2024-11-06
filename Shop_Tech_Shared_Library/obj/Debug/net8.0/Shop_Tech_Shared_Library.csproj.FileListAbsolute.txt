@@ -1,0 +1,12 @@
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\bin\Debug\net8.0\Shop_Tech_Shared_Library.deps.json
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\bin\Debug\net8.0\Shop_Tech_Shared_Library.dll
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\bin\Debug\net8.0\Shop_Tech_Shared_Library.pdb
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.AssemblyInfoInputs.cache
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.AssemblyInfo.cs
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.csproj.CoreCompileInputs.cache
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.sourcelink.json
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.dll
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\refint\Shop_Tech_Shared_Library.dll
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\Shop_Tech_Shared_Library.pdb
+F:\Project_E_Ecommerce\Shop_Tech_Server\Shop_Tech_Shared_Library\obj\Debug\net8.0\ref\Shop_Tech_Shared_Library.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shop_Tech_Shared_Library/1.0.0": {
+        "runtime": {
+          "Shop_Tech_Shared_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shop_Tech_Shared_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
