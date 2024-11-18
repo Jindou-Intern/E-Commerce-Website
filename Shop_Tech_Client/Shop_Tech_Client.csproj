@@ -7,8 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Pages\ProductPages\ProductListPage.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Blazored.LocalStorage" Version="4.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.7" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="8.0.10" />
     <PackageReference Include="Syncfusion.Blazor.Navigations" Version="27.1.58" />
     <PackageReference Include="Syncfusion.Blazor.Themes" Version="27.1.58" />
   </ItemGroup>

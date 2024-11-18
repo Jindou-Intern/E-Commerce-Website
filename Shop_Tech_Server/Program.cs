@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Shop_Tech_Server.Data;
 using Shop_Tech_Server.Repositories;
-using Shop_Tech_Shared_Library.Contracts;
+using Shop_Tech_Server.Repsitories;
 
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NCaF1cWWhBYVF+WmFZfVpgcF9DY1ZTRWYuP1ZhSXxXdk1hWH9adXdXR2FZUEQ=");
 
@@ -21,8 +21,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 	options.UseSqlServer(builder.Configuration.GetConnectionString("Default") ?? throw new InvalidOperationException("Connection string not found"));
 });
 
-builder.Services.AddScoped < IProduct, ProductRepository > ();
-
+builder.Services.AddScoped <IProduct, ProductRepository > ();
+builder.Services.AddScoped <ICategory, CategoryRepository > ();
+builder.Services.AddScoped<IUserAccount, UserAccountRepository>();
 
 
 //Ending
@@ -44,6 +45,7 @@ app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapRazorPages();
 

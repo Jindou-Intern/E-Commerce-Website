@@ -1,224 +1,772 @@
 {
   "Files": [
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\obj\\Debug\\net8.0\\compressed\\4ovpmekp4d.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
-    },
-    {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shop_Tech_Client.styles.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shop_Tech_Client.styles.css",
       "PackagePath": "staticwebassets\\Shop_Tech_Client.styles.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\Resources\\greaterthan.jpg",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\Fonts\\Vermin.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Vermin.ttf"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\Resources\\greaterthan.jpg",
       "PackagePath": "staticwebassets\\Resources\\greaterthan.jpg"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\Resources\\lessthan.jpg",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\Resources\\lessthan.jpg",
       "PackagePath": "staticwebassets\\Resources\\lessthan.jpg"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\css\\app.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\favicon.png",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\all.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\all.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\all.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\brands.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\brands.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\regular.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\regular.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\solid.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\solid.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-font-face.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v5-font-face.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
       "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\all.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\all.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\all.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\all.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\brands.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\brands.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\brands.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\conflict-detection.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\fontawesome.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\regular.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\regular.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\regular.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\solid.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\solid.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\solid.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\v4-shims.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
       "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\brands.svg",
       "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\regular.svg",
       "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\sprites\\solid.svg",
       "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\icon-192.png",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\index.html",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "F:\\Project_E_Ecommerce\\Shop_Tech_Server\\Shop_Tech_Client\\wwwroot\\js\\dialog.js",
+      "Id": "F:\\E-Commerce-Website\\Shop_Tech_Client\\wwwroot\\js\\dialog.js",
       "PackagePath": "staticwebassets\\js\\dialog.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop_Tech_Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop_Tech_Client.Microsoft.AspNetCore.StaticWebAssets.props",

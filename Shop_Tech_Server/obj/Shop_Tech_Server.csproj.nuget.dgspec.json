@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\Shop_Tech_Server.csproj": {}
+    "F:\\E-Commerce-Website\\Shop_Tech_Server\\Shop_Tech_Server.csproj": {}
   },
   "projects": {
-    "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\Shop_Tech_Client.csproj": {
+    "F:\\E-Commerce-Website\\Shop_Tech_Client\\Shop_Tech_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\Shop_Tech_Client.csproj",
+        "projectUniqueName": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Shop_Tech_Client.csproj",
         "projectName": "Shop_Tech_Client",
-        "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\Shop_Tech_Client.csproj",
+        "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Shop_Tech_Client.csproj",
         "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\obj\\",
+        "outputPath": "F:\\E-Commerce-Website\\Shop_Tech_Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
-                "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj"
+              "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
+                "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj"
               }
             }
           }
@@ -43,13 +46,22 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -59,16 +71,20 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[9.0.0, )",
               "autoReferenced": true
             },
             "Syncfusion.Blazor.Navigations": {
@@ -94,7 +110,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.7, 8.0.7]"
+              "version": "[8.0.11, 8.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -102,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -111,17 +127,21 @@
         }
       }
     },
-    "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\Shop_Tech_Server.csproj": {
+    "F:\\E-Commerce-Website\\Shop_Tech_Server\\Shop_Tech_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
+        "projectUniqueName": "F:\\E-Commerce-Website\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
         "projectName": "Shop_Tech_Server",
-        "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
+        "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
         "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\obj\\",
+        "outputPath": "F:\\E-Commerce-Website\\Shop_Tech_Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,18 +149,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\Shop_Tech_Client.csproj": {
-                "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Client\\Shop_Tech_Client.csproj"
+              "F:\\E-Commerce-Website\\Shop_Tech_Client\\Shop_Tech_Client.csproj": {
+                "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Shop_Tech_Client.csproj"
               },
-              "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
-                "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj"
+              "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
+                "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj"
               }
             }
           }
@@ -153,13 +172,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -202,21 +226,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
+    "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
+        "projectUniqueName": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
         "projectName": "Shop_Tech_Shared_Library",
-        "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
+        "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
         "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\obj\\",
+        "outputPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -224,7 +252,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -241,8 +268,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -263,7 +291,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

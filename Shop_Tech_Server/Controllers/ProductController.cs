@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Shop_Tech_Shared_Library.Contracts;
+using Shop_Tech_Server.Repsitories;
 using Shop_Tech_Shared_Library.Models;
 using Shop_Tech_Shared_Library.Responses;
 
@@ -8,15 +8,11 @@ namespace Shop_Tech_Server.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	public class ProductController : ControllerBase
+	public class ProductController(IProduct productService) : ControllerBase
 	{
-		private readonly IProduct productService;
-		public ProductController(IProduct productService)
-		{
-			this.productService = productService;
-		}
+		private readonly IProduct productService = productService;
 
-		[HttpGet]
+        [HttpGet]
 		public async Task<ActionResult<List<Product>>>GetAllProducts(bool featured)
 		{
 			var products = await productService.GetAllProducts(featured);

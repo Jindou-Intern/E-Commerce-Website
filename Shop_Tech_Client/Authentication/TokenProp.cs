@@ -1,0 +1,8 @@
+﻿namespace Shop_Tech_Client.Authentication
+{
+    public class TokenProp
+    {
+        public string? Token { get; set; }
+        public string ? RefreshToken {  get; set; }
+    }
+}

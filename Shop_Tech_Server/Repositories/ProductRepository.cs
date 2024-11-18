@@ -1,19 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Shop_Tech_Server.Data;
-using Shop_Tech_Shared_Library.Contracts;
+using Shop_Tech_Server.Repsitories;
 using Shop_Tech_Shared_Library.Models;
 using Shop_Tech_Shared_Library.Responses;
 
 namespace Shop_Tech_Server.Repositories
 {
-	public class ProductRepository : IProduct
+	public class ProductRepository(AppDbContext appDbContext) : IProduct
 	{
-		private readonly AppDbContext appDbContext;
-		public ProductRepository(AppDbContext appDbContext)
-		{
-			this.appDbContext = appDbContext;
-		}
-		public async Task<ServiceResponse> AddProduct(Product model)
+		private readonly AppDbContext appDbContext = appDbContext;
+
+        public async Task<ServiceResponse> AddProduct(Product model)
 		{
 			if (model is null) return new ServiceResponse(false, "Model is null");
 
@@ -31,14 +28,14 @@ namespace Shop_Tech_Server.Repositories
 		public async Task<List<Product>>GetAllProducts(bool featuredProducts)
 		{
 			if (featuredProducts)
-				return await appDbContext.Products.Where(_ => _.Featured).ToListAsync();
+				return await appDbContext.Products.Where(_ => _.Featured).Include(_=>_.Category).ToListAsync();
 			else
-				return await appDbContext.Products.ToListAsync();
+				return await appDbContext.Products.Include(_ => _.Category).ToListAsync();
 		}
 
 		private async Task<ServiceResponse> CheckName(string name)
 		{
-			var product = await appDbContext.Products.FirstOrDefaultAsync(x => x.Name.ToLower()!.Equals(name.ToLower()));
+			var product = await appDbContext.Products.FirstOrDefaultAsync(x => x.Name!.ToLower()!.Equals(name.ToLower()));
 			return product is null ? new ServiceResponse(true, null!) : new ServiceResponse(false, "Product already exist");
 		}
 		private async Task Commit() => await appDbContext.SaveChangesAsync();

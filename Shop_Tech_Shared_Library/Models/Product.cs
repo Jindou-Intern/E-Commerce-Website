@@ -19,5 +19,9 @@ namespace Shop_Tech_Shared_Library.Models
 		public bool Featured { get; set; } = false;
 		public DateTime DateUpLoaded { get; set; } = DateTime.Now;
 
+		//Relationshop Many To One
+		public Category? Category { get; set; }
+		public int CategoryId { get; set; }
+
 	}
 }

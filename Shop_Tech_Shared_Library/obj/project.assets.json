@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\huynh\\.nuget\\packages\\": {}
+    "C:\\Users\\huynh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
+      "projectUniqueName": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
       "projectName": "Shop_Tech_Shared_Library",
-      "projectPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
+      "projectPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj",
       "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-      "outputPath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Shared_Library\\obj\\",
+      "outputPath": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,8 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

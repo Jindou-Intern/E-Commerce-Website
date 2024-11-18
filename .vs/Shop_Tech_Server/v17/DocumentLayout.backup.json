@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\E-Commerce-Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\productlisthomepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\productlisthomepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\layout\\searchcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\layout\\searchcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\recommendedpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\recommendedpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\featuredproductscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\featuredproductscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\frontpagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\frontpagecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\bannerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\bannerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F994D41-767D-4DAC-9A8A-E5FFB7794187}|Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj|f:\\e-commerce-website\\shop_tech_shared_library\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F994D41-767D-4DAC-9A8A-E5FFB7794187}|Shop_Tech_Shared_Library\\Shop_Tech_Shared_Library.csproj|solutionrelative:shop_tech_shared_library\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\layout\\navigationbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\layout\\navigationbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\productpages\\productslistpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\productpages\\productslistpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2865C9-88B9-4013-AA99-200AE7142E59}|Shop_Tech_Server\\Shop_Tech_Server.csproj|f:\\e-commerce-website\\shop_tech_server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2865C9-88B9-4013-AA99-200AE7142E59}|Shop_Tech_Server\\Shop_Tech_Server.csproj|solutionrelative:shop_tech_server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\pages\\cartpages\\mycartpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\pages\\cartpages\\mycartpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\services\\icart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\services\\icart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|f:\\e-commerce-website\\shop_tech_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07280F9-A54E-4B13-905D-2CEEE8685EAE}|Shop_Tech_Client\\Shop_Tech_Client.csproj|solutionrelative:shop_tech_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchComponent.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Layout\\SearchComponent.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Layout\\SearchComponent.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Layout\\SearchComponent.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Layout\\SearchComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:51:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendedPage.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\RecommendedPage.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\RecommendedPage.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\RecommendedPage.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\RecommendedPage.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:43:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeaturedProductsComponent.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\FeaturedProductsComponent.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\FeaturedProductsComponent.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\FeaturedProductsComponent.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\FeaturedProductsComponent.razor",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:37:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrontPageComponent.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\FrontPageComponent.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\FrontPageComponent.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\FrontPageComponent.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\FrontPageComponent.razor",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:31:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Shop_Tech_Shared_Library\\Models\\Category.cs",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Shared_Library\\Models\\Category.cs",
+              "RelativeToolTip": "Shop_Tech_Shared_Library\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:12:54.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductListHomePage.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductListHomePage.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\ProductListHomePage.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductListHomePage.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\ProductListHomePage.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:01:51.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Server\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop_Tech_Server\\Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Server\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Shop_Tech_Server\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:42:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetails.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\ProductDetails.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductDetails.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\ProductDetails.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:32:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BannerPage.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\BannerPage.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\BannerPage.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\BannerPage.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\BannerPage.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:15:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavigationBar.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Layout\\NavigationBar.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Layout\\NavigationBar.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Layout\\NavigationBar.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Layout\\NavigationBar.razor",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwGkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:24:29.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsListPage.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductsListPage.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\ProductPages\\ProductsListPage.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\ProductPages\\ProductsListPage.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\ProductPages\\ProductsListPage.razor",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:13:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICart.cs",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Services\\ICart.cs",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Services\\ICart.cs",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Services\\ICart.cs",
+              "RelativeToolTip": "Shop_Tech_Client\\Services\\ICart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:07:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\_Imports.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\_Imports.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\_Imports.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T07:53:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyCartPage.razor",
+              "DocumentMoniker": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\CartPages\\MyCartPage.razor",
+              "RelativeDocumentMoniker": "Shop_Tech_Client\\Pages\\CartPages\\MyCartPage.razor",
+              "ToolTip": "F:\\E-Commerce-Website\\Shop_Tech_Client\\Pages\\CartPages\\MyCartPage.razor",
+              "RelativeToolTip": "Shop_Tech_Client\\Pages\\CartPages\\MyCartPage.razor",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T07:24:58.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

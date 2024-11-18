@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop_Tech_Server", "Shop_Tech_Server\Shop_Tech_Server.csproj", "{8A2865C9-88B9-4013-AA99-200AE7142E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop_Tech_Server", "Shop_Tech_Server\Shop_Tech_Server.csproj", "{8A2865C9-88B9-4013-AA99-200AE7142E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop_Tech_Client", "Shop_Tech_Client\Shop_Tech_Client.csproj", "{A07280F9-A54E-4B13-905D-2CEEE8685EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop_Tech_Client", "Shop_Tech_Client\Shop_Tech_Client.csproj", "{A07280F9-A54E-4B13-905D-2CEEE8685EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop_Tech_Shared_Library", "Shop_Tech_Shared_Library\Shop_Tech_Shared_Library.csproj", "{7F994D41-767D-4DAC-9A8A-E5FFB7794187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop_Tech_Shared_Library", "Shop_Tech_Shared_Library\Shop_Tech_Shared_Library.csproj", "{7F994D41-767D-4DAC-9A8A-E5FFB7794187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

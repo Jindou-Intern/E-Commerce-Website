@@ -13,55 +13,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Shop_Tech_Client
 build_property.RootNamespace = Shop_Tech_Client
-build_property.ProjectDir = F:\Project_E_Ecommerce\Shop_Tech\Shop_Tech_Client\
+build_property.ProjectDir = F:\E-Commerce-Website\Shop_Tech_Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Project_E_Ecommerce\Shop_Tech\Shop_Tech_Client
+build_property.MSBuildProjectDirectory = F:\E-Commerce-Website\Shop_Tech_Client
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/App.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Layout/NavigationBar.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdmlnYXRpb25CYXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Layout/SearchComponent.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/Layout/SearchComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFNlYXJjaENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Pages/AddOrUpdateProductComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JVcGRhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/AccountPages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXExvZ2luUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Pages/BusyButtonComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzeUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/AccountPages/RegisterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VzXFJlZ2lzdGVyUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Pages/FrontPageComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJvbnRQYWdlQ29tcG9uZW50LnJhem9y
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/CartPages/MyCartPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFBhZ2VzXE15Q2FydFBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Pages/Home.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/CategoryPages/AddCategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlQYWdlc1xBZGRDYXRlZ29yeVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/CategoryPages/CategoriesPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlQYWdlc1xDYXRlZ29yaWVzUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Pages/MessageDialog.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZURpYWxvZy5yYXpvcg==
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/OtherPages/BusyButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xCdXN5QnV0dG9uQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/_Imports.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/OtherPages/MessageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xNZXNzYWdlRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/AddOrUpdateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXEFkZE9yVXBkYXRlUHJvZHVjdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/BannerPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXEJhbm5lclBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/FeaturedProductsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXEZlYXR1cmVkUHJvZHVjdHNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/FrontPageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXEZyb250UGFnZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXFByb2R1Y3REZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/ProductListHomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXFByb2R1Y3RMaXN0SG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/RecommendedPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXFJlY29tbWVuZGVkUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/E-Commerce-Website/Shop_Tech_Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Layout/MainLayout.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-33fqa6u5m5
 
-[F:/Project_E_Ecommerce/Shop_Tech/Shop_Tech_Client/Layout/NavMenu.razor]
+[F:/E-Commerce-Website/Shop_Tech_Client/Layout/NavigationBar.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdmlnYXRpb25CYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4j2cg17jt0
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-f8bk9m3yc7
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/OtherPages/LoadingPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xMb2FkaW5nUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-b76inoke4d
+
+[F:/E-Commerce-Website/Shop_Tech_Client/Pages/ProductPages/ProductsListPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2VzXFByb2R1Y3RzTGlzdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-f3huovletr

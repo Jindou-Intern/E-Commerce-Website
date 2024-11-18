@@ -1,20 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "Dam+8MQmAN8=",
+  "dgSpecHash": "dUHAoloN5Kc=",
   "success": true,
-  "projectFilePath": "F:\\Project_E_Ecommerce\\Shop_Tech\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
+  "projectFilePath": "F:\\E-Commerce-Website\\Shop_Tech_Server\\Shop_Tech_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huynh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.10\\microsoft.aspnetcore.components.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.10\\microsoft.aspnetcore.components.analyzers.8.0.10.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\8.0.10\\microsoft.aspnetcore.components.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.10\\microsoft.aspnetcore.components.forms.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.10\\microsoft.aspnetcore.components.web.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.7\\microsoft.aspnetcore.components.webassembly.8.0.7.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.10\\microsoft.aspnetcore.components.webassembly.server.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.10\\microsoft.aspnetcore.metadata.8.0.10.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\8.0.10\\microsoft.aspnetcore.webutilities.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
@@ -59,6 +63,7 @@
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.jsinterop\\8.0.10\\microsoft.jsinterop.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.7\\microsoft.jsinterop.webassembly.8.0.7.nupkg.sha512",
+    "C:\\Users\\huynh\\.nuget\\packages\\microsoft.net.http.headers\\8.0.10\\microsoft.net.http.headers.8.0.10.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
@@ -117,5 +122,56 @@
     "C:\\Users\\huynh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\huynh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Formats.Asn1' 5.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "libraryId": "System.Formats.Asn1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
