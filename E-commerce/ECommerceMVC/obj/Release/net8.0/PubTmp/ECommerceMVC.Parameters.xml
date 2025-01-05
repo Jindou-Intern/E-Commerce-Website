@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="jindou1807-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="ECommerceMVC.Data.Hshop2023Context" description="" value="Data Source=LAPTOP-M2T9566J\SQLEXPRESS;Initial Catalog=Hshop2023;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\ECommerceMVC\.Data\.Hshop2023Context\.sql$" />
+  </parameter>
+</parameters>

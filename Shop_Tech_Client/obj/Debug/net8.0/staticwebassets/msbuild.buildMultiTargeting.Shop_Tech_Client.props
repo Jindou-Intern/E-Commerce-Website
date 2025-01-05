@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Shop_Tech_Client.props" />
-</Project>

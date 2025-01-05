@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\E-commerce\\E-commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDD3EE7-97C7-40F7-9D5E-73BAADEB2804}|ECommerceMVC\\ECommerceMVC.csproj|f:\\project\\e-commerce\\e-commerce\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EDD3EE7-97C7-40F7-9D5E-73BAADEB2804}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDD3EE7-97C7-40F7-9D5E-73BAADEB2804}|ECommerceMVC\\ECommerceMVC.csproj|f:\\project\\e-commerce\\e-commerce\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDD3EE7-97C7-40F7-9D5E-73BAADEB2804}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceMVC\\appsettings.json",
+              "ToolTip": "F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\appsettings.json",
+              "RelativeToolTip": "ECommerceMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T04:48:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
+              "ToolTip": "F:\\Project\\E-commerce\\E-commerce\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "ECommerceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:48:08.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

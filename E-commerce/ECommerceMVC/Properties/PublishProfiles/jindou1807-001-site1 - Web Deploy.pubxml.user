@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAE75S/zMiIEO2TZR66+i62gAAAAACAAAAAAAQZgAAAAEAACAAAAD68Ja5wwOZf5vSOBbRUDyQ54nY0WLwihrs6i4+qaAvZQAAAAAOgAAAAAIAACAAAABpgYkI5H2aJFMCI4f66Of2y/iz7ME+Rs3e4zOVoJIzOyAAAADMCgw9bCAY+va/e66iWXugvMEiF5e/7tl2f3Lyf4w2D0AAAAA4yuuQX7Blr6LplGWLejhoIyylvfcCPjDrN0oymUqVZfNpelLW8JCc0QY821LFtwsG8hm07e+4ALKRZkcoksgO</EncryptedPassword>
+    <History>False|2024-12-26T08:54:55.2674110Z||;False|2024-12-26T15:53:03.5840908+07:00||;False|2024-12-26T15:51:06.7651484+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="ECommerceMVC.Data.Hshop2023Context">
+      <Value>Data Source=LAPTOP-M2T9566J\SQLEXPRESS%3bInitial Catalog=Hshop2023%3bIntegrated Security=True%3bEncrypt=True%3bTrust Server Certificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
